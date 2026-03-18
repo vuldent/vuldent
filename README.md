@@ -1,5 +1,5 @@
 <div align="center">
-<img src="public/vt-logo.svg" width="80" height="92" alt="V Team Launcher"/>
+alt="V Team Launcher"/>
 <h1>V Team Launcher</h1>
 <p>A sleek, feature-rich universal game launcher built with Electron + React.<br/>Add any game. Track everything. Launch in style.</p>
 Overview
